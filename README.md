@@ -1,6 +1,6 @@
 # Project Overview
 
-This project contains a collection of Python scripts that demonstrate various concepts and techniques in data analysis and visualization. Each Python file in this project can be run independently and produces a specific output.
+This project contains Python scripts demonstrating various concepts and techniques in traditional image data processing and visualization. Each Python file in this project can be run independently and produces a specific output.
 
 # Dependencies
 
